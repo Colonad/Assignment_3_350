@@ -1,3 +1,1 @@
-# Assignment_3_350
-
-Example of change
+# Assignment_3_350 for Team 7
